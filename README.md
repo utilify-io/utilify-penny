@@ -22,7 +22,7 @@ Penny checks for updates at https://utilify.io/penny/version.json, which is publ
 | `donation_url`, `feedback_url` | `null` until set |
 | `notes` | What changed |
 
-The current version is **17** (2026-11-19).
+The current version is **18** (2026-11-19).
 
 ## What Penny does not do
 
