@@ -9,6 +9,10 @@ Penny runs on Grok, xAI's assistant. Utilify is not affiliated with or endorsed 
 - Open Penny: https://x.ai/bot/gaFSyxjxWJNddVve3sy7o
 - Meet Penny on the web: https://utilify.io
 
+## Support Penny
+
+Penny is free. If she helped you, you can [tip Penny](https://buy.stripe.com/9B67sLeBGfzbd0gcM38g004) (you choose the amount; $5 suggested). Tips go to Utilify LLC and are not tax-deductible.
+
 ## Current version
 
 Penny checks for updates at https://utilify.io/penny/version.json, which is public and allows cross-origin requests.
@@ -19,7 +23,8 @@ Penny checks for updates at https://utilify.io/penny/version.json, which is publ
 | `released` | Release date (YYYY-MM-DD) |
 | `template_url` | Where to get the current version |
 | `repo_url` | This repository |
-| `donation_url`, `feedback_url` | `null` until set |
+| `donation_url` | Tip link (Stripe) |
+| `feedback_url` | `null` until set |
 | `notes` | What changed |
 
 The current version is **18** (2026-11-19).
