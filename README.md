@@ -4,6 +4,8 @@ Penny is a free bot from [Utilify](https://utilify.io). She helps people moving 
 
 Penny runs on Grok, xAI's assistant. Utilify is not affiliated with or endorsed by xAI.
 
+⭐ **If Penny helped you, star this repo.** It helps other Texans find her.
+
 ## Use Penny
 
 - Open Penny: https://x.ai/bot/gaFSyxjxWJNddVve3sy7o
